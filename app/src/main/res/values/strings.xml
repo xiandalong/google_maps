@@ -3,4 +3,7 @@
     <string name="map">Map</string>
     <string name="satellite">Satellite</string>
     <string name="hybrid">Hybrid</string>
+    <string name="seattle">Seattle</string>
+    <string name="new_york">New York</string>
+    <string name="boston">Boston</string>
 </resources>
